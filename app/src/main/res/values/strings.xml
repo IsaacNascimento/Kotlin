@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade04</string>
+    
+    <string-array name="Dogs_list">
+        <item>Dog 1</item>
+        <item>Dog 2</item>
+        <item>Dog 3</item>
+        <item>Dog 4</item>
+    </string-array>
+</resources>
